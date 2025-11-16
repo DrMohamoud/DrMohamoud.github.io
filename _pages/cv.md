@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Postdoctoral Fellowship {% if site.author.googlescholar %}
-  <div class="wordwrap"> <a href="{{https://soradi.org/}}"> SORADI</a>.</div>
-{% endif %} Hargeisa, Somaliland  / Roskilde University / Danish Fellowship Center, Denmark
+* Postdoctoral Fellowship 
+  <a href="{{https://soradi.org/}}"> SORADI</a> Hargeisa, Somaliland  / Roskilde University / Danish Fellowship Center, Denmark
 
 {% include base_path %}
 * Postdoctoral Fellowship, SORADI, Hargeisa, Somaliland  / Roskilde University / Danish Fellowship Center, Denmark
