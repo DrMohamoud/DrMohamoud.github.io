@@ -16,6 +16,11 @@ Education
 {% endif %}
 
 {% include base_path %}
+* Postdoctoral Fellowship {% if site.author.googlescholar %}
+  <div class="wordwrap"> <a href="{{https://soradi.org/}}"> SORADI</a>.</div>
+{% endif %}
+
+{% include base_path %}
 * Postdoctoral Fellowship, SORADI, Hargeisa, Somaliland  / Roskilde University / Danish Fellowship Center, Denmark
   * Supervisors : Dr. Mohamed Osman Fadal, Louise Wiuff Moe
 * Ph.D in Applied Mathematics, Eskisehir Technical University, Turkey, 2023
