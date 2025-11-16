@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Postdoctoral Fellowship, SORADI, Hargeisa, Somaliland  / Roskilde University / Danish Fellowship Center, Denmark
 * Ph.D in Applied Mathematics, Eskisehir Technical University, Turkey, 2023
 * M.Sc. in Mathematical Sciences, African Institute for Mathematical Sciences (AIMS), The University of Western Cape, South Africa, 2018
 * B.Sc. in Mathematics and Statistics, University of Hargeisa, Somaliland, 2016
